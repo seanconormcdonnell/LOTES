@@ -12,16 +12,13 @@ $blue: #437C90;
 
 h1{
     font-family: Arial, Helvetica, sans-serif;
+    margin: 80px auto;
 }
 
-header{
-    border-top: 8px solid $blue;
-}
 
 body{
     background-color: $dark-green;
     color: $light-green;
-    padding-top: 80px;
     text-align: center;
 
 }
